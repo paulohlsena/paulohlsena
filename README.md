@@ -1,8 +1,8 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">Estudante de Desenvolvimento de Sistemas Multiplataforma.<br><br>Tenho expertise em desenvolvimento de software, com foco em HTML, CSS, JavaScript, Bootstrap, PHP e MySQL. Minhas habilidades incluem front end e back end, consumo de APIs e bancos de dados, sempre buscando otimizar processos e melhorar a performance tecnológica da organização.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas.<br><br>Venho desenvolvendo projetos utilizando diversas ferramentas e linguagens de programação, sempre visando utilidade e valor nos projetos.</p>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="php logo"  /
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="php logo"  /
 </div>
 
 ###
